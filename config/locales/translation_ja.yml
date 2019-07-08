@@ -1,0 +1,15 @@
+ja:
+  activerecord:
+    models:
+      book: 本  #g
+
+    attributes:
+      book:
+        author: 著者  #g
+        comment: コメント  #g
+        name: 名  #g
+        price: 価格  #g
+        published: 公開済み  #g
+        published_at: で公開されました  #g
+        published_by: 投稿者  #g
+        stock: 在庫  #g

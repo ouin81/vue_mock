@@ -1,0 +1,15 @@
+en:
+  activerecord:
+    models:
+      book: Book  #g
+
+    attributes:
+      book:
+        author: Author  #g
+        comment: Comment  #g
+        name: Name  #g
+        price: Price  #g
+        published: Published  #g
+        published_at: Published at  #g
+        published_by: Published by  #g
+        stock: Stock  #g

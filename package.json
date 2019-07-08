@@ -1,0 +1,34 @@
+{
+  "name": "vue_mock",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.2",
+    "admin-lte": "2.3.11",
+    "axios": "^0.18.0",
+    "bootstrap": "3.3.7",
+    "bootstrap3-wysihtml5-bower": "^0.3.3",
+    "chart.js": "^2.8.0",
+    "clean-webpack-plugin": "^2.0.2",
+    "expose-loader": "^0.7.5",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "jquery-slimscroll": "^1.3.8",
+    "jquery-ui": "^1.12.1",
+    "json-form-data": "^1.4.1",
+    "moment": "^2.24.0",
+    "rails-erb-loader": "^5.5.2",
+    "rangy": "^1.3.0",
+    "vee-validate": "^2.2.11",
+    "vue": "^2.6.10",
+    "vue-error": "^1.0.1",
+    "vue-eslint-parser": "^6.0.4",
+    "vue-i18n": "^8.11.2",
+    "vue-loader": "^15.7.0",
+    "vue-router": "^3.0.6",
+    "vue-template-compiler": "^2.6.10",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.7.2"
+  }
+}

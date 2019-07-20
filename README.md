@@ -9,6 +9,6 @@ yarn をインストール https://yarnpkg.com/ja/docs/install
 bundle install
 yarn install
 rails db:migrate
-rails s
+rails s -b 0.0.0.0
 ```
 
